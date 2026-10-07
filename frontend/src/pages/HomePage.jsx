@@ -151,7 +151,7 @@ export default function HomePage() {
           <div className="section-tag">Our Mission</div>
           <h2 className="section-title">Every Student Deserves an Opportunity to<br /><span style={{ color: 'var(--primary)' }}>Learn, Grow and Succeed.</span></h2>
           <p className="section-subtitle" style={{ margin: '0 auto 1.5rem' }}>
-            DECP is an inclusive digital education platform that helps students overcome barriers to continuous education, access relevant opportunities, and develop academic, digital, career and life skills. We serve all students — with special focus on those facing financial, health, geographical or social challenges.
+            KALVITHADAM is an inclusive digital education platform that helps students overcome barriers to continuous education, access relevant opportunities, and develop academic, digital, career and life skills. We serve all students — with special focus on those facing financial, health, geographical or social challenges.
           </p>
           <div style={{ display: 'flex', gap: '2rem', justifyContent: 'center', flexWrap: 'wrap', margin: '2rem 0' }}>
             {[
